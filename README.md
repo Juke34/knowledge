@@ -34,6 +34,7 @@ Knowledge: collection of cheat Sheets / overviews / summaries
     * [Rackham](#rackham)
     * [Screen](#screen)
     * [Schedulers: LSF,Torque,SGE,Slurm,etc](#schedulers-lsftorquesgeslurmetc)
+    * [Slurm](#slurm)
     * [Taxonomic classification](taxonomic-classification)
  * [Blogs](#blogs)
  * [Knowledge bank](#knowledge-bank)
