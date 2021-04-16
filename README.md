@@ -111,6 +111,8 @@ Knowledge: collection of cheat Sheets / overviews / summaries
 
 ### [Schedulers: LSF,Torque,SGE,Slurm,etc](pictures/scheduler_rosetta.pdf)
 
+### [Slurm](slurm.md)
+
 ### [Taxonomic classification](taxonomic_classification.md)
 
 # Blogs
