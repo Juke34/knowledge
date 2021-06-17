@@ -92,4 +92,4 @@ It's possible `-n 1 -c 36` might worked better than using `-n 36`, but in some c
 
 ## Authors
 
-Jacques Dainat, Roy Francis, Pontus, pontus freyhult
+Jacques Dainat, Roy Francis, Pontus Freyhult
