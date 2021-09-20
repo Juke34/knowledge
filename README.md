@@ -33,7 +33,9 @@ Knowledge: collection of cheat Sheets / overviews / summaries
 * [Converting](#converting)
     * [gff to gtf](#gff-to-gtf)
     * [gff to bed](#gff-to-bed)
- * [Others](#others)
+* [Statistics](#statistics)
+    * [general](statistics.md)
+* [Others](#others)
     * [MinHash](#minhash)
     * [Annotation tools](#annotation-tools)
         * [Genome (protein coding genes)](#genome-protein-coding-genes)
@@ -44,7 +46,6 @@ Knowledge: collection of cheat Sheets / overviews / summaries
     * [Taxonomic classification](taxonomic-classification)
  * [Blogs](#blogs)
  * [Knowledge bank](#knowledge-bank)
- * [Statistics](#statistics)
  * [Data visualisation](#data-visualisation )
  
 # Programming
@@ -103,6 +104,15 @@ Knowledge: collection of cheat Sheets / overviews / summaries
   * [gff to gtf](gff_to_gtf.md)
   * [gff to bed](gff_to_bed.md)
 
+# Statistics  
+ * [general](statistics.md)
+ * [seeing-theory](https://seeing-theory.brown.edu)
+ * [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)
+ * [Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9)
+ * [methodologie - fr](https://fr.slideshare.net/bachelet/methodologie-mesurer-testerdeshypotheses)
+ * [bioinfo-fr - fr](https://bioinfo-fr.net/tests-statistiques-suivez-lguide)
+ * [Introduction aux Statistiques - fr](http://www.cons-dev.org/elearning/stat/index.html)
+
 # Others
 
 ### MinHash  
@@ -142,17 +152,8 @@ Knowledge: collection of cheat Sheets / overviews / summaries
 
 # Knowledge bank
  * [ecSeq Bioinformatics](https://www.ecseq.com/support/)  
-
-
-# Statistics  
- * [seeing-theory](https://seeing-theory.brown.edu)
- * [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)
- * [Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9)
- * [methodologie - fr](https://fr.slideshare.net/bachelet/methodologie-mesurer-testerdeshypotheses)
- * [bioinfo-fr - fr](https://bioinfo-fr.net/tests-statistiques-suivez-lguide)
- * [Introduction aux Statistiques - fr](http://www.cons-dev.org/elearning/stat/index.html)
  
- # Data visualisation  
+# Data visualisation  
  
  * [Orange: Data Mining Fruitful and Fun](https://orange.biolab.si)
  
