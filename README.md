@@ -19,7 +19,7 @@ Knowledge: collection of cheat Sheets / overviews / summaries
     * [VULGAR](#vulgar)
     * [Wiki syntax](#wiki-syntax)
     * [External ressource about many different formats](#external-ressource-about-many-different-formats)
- * [Convertion](#convertion)
+ * [Converting](#converting)
     * [gff to gtf](#gff-to-gtf)
     * [gff to bed](#gff-to-bed)
  * [Others](#others)
@@ -83,7 +83,7 @@ Knowledge: collection of cheat Sheets / overviews / summaries
  
  * [UCSC - University of California, Santa Cruz](https://genome.ucsc.edu/FAQ/FAQformat.html)
 
-# Conversion
+# Converting
 
 ### [gff to gtf](gff_to_gtf.md)
 ### [gff to bed](gff_to_bed.md)
@@ -99,10 +99,10 @@ Knowledge: collection of cheat Sheets / overviews / summaries
  * [http://ivory.idyll.org/blog/2016-sourmash-sbt.html] (http://ivory.idyll.org/blog/2016-sourmash-sbt.html)
 
 ### Annotation tools
- * #### [Genome (Protein coding genes)](annotation_tools.md)
- * #### [Mitochondrion](annotation_tools_mito.md)
- * #### [Chloroplast](annotation_tools_chloro.md)
- * #### [Plasmid](annotation_tools_plasmid.md)
+ * #### [Genome (Protein coding genes)](annotation_tools_genome.md)
+ * #### [Mitochondrion](annotation_tools_mitome.md)
+ * #### [Chloroplast](annotation_tools_plastome.md)
+ * #### [Plasmid](annotation_tools_plasmidome.md)
 
 ### [Overview of RNA-seq library types](rnaseq_library_types.md)
 
