@@ -5,25 +5,35 @@ Knowledge: collection of cheat Sheets / overviews / summaries
 
 ## Table of Contents  
 
-* [Programming](#programming)  
+* [Programming](#programming)
+    * [Git](git.md)
     * [Bash](#bash)
     * [Perl](#perl)
     * [Python](#python)
-* [Format](#format)
-    * [BAM and SAM](#bam-and-sam)
-    * [CIGAR](#cigar)
-    * [GFF and GTF](#gff-and-gtf)
-    * [MD tag in bam format](#md-tag-in-bam-format)
-    * [Markdown syntax](#markdown-syntax)
-    * [SUGAR](#sugar)
-    * [VULGAR](#vulgar)
-    * [Wiki syntax](#wiki-syntax)
-    * [External ressource about many different formats](#external-ressource-about-many-different-formats)
- * [Converting](#converting)
+* [Cluster](#cluster)
+    * [Schedulers: LSF,Torque,SGE,Slurm,etc](#schedulers-lsftorquesgeslurmetc)
+    * [Slurm](#slurm)
+    * [Rackham](#rackham)
+    * [Screen](#screen) 
+* [File format](#file-format)
+    * [SUGAR](sugar.md)
+    * [VULGAR](vulgar.md)  
+    * [CIGAR](cigar.md)  
+    * [GFF and GTF](gxf.md)
+    * [BAM and SAM](https://samtools.github.io/hts-specs/SAMv1.pdf)  
+    * MD tag in bam format  
+      * [MD Tags in BAM Files](https://github.com/vsbuffalo/devnotes/wiki/The-MD-Tag-in-BAM-Files)   
+      * [The history the MD tag and the CIGAR X operator](http://lh3.github.io/2018/03/27/the-history-the-cigar-x-operator-and-the-md-tag)
+    * Markdown syntax
+      * [Git Markdown](https://guides.github.com/features/mastering-markdown/)
+      * [Anchors in Git Markdown](anchors-in-markdown.md)
+    * Wiki syntax
+      * [textile](https://textile-lang.com) - Used by Redmine
+    * External ressource about many different formats
+* [Converting](#converting)
     * [gff to gtf](#gff-to-gtf)
     * [gff to bed](#gff-to-bed)
  * [Others](#others)
-    * [Git](#git)
     * [MinHash](#minhash)
     * [Annotation tools](#annotation-tools)
         * [Genome (protein coding genes)](#genome-protein-coding-genes)
@@ -31,10 +41,6 @@ Knowledge: collection of cheat Sheets / overviews / summaries
         * [Chloroplast](#chloroplast)
         * [Plasmid](#plasmid)
     * [Overview of RNA-seq library types](#overview-of-rna-seq-library-types)
-    * [Rackham](#rackham)
-    * [Screen](#screen)
-    * [Schedulers: LSF,Torque,SGE,Slurm,etc](#schedulers-lsftorquesgeslurmetc)
-    * [Slurm](#slurm)
     * [Taxonomic classification](taxonomic-classification)
  * [Blogs](#blogs)
  * [Knowledge bank](#knowledge-bank)
@@ -42,6 +48,8 @@ Knowledge: collection of cheat Sheets / overviews / summaries
  * [Data visualisation](#data-visualisation )
  
 # Programming
+
+### [Git](git.md)
 
 ### BASH  
  * Cheat Sheets:  
@@ -60,37 +68,42 @@ Knowledge: collection of cheat Sheets / overviews / summaries
 ### Python
  * [Create a package on PyPI](pypi.md)
 
-# Format
+# Cluster
+ 
+### [Schedulers: LSF,Torque,SGE,Slurm,etc](pictures/scheduler_rosetta.pdf)
 
-### [BAM and SAM](https://samtools.github.io/hts-specs/SAMv1.pdf)
-### [CIGAR](cigar.md)
-### [GFF and GTF](gxf.md)
-### MD tag in bam format
- * [MD Tags in BAM Files](https://github.com/vsbuffalo/devnotes/wiki/The-MD-Tag-in-BAM-Files)
-    
- * [The history the MD tag and the CIGAR X operator](http://lh3.github.io/2018/03/27/the-history-the-cigar-x-operator-and-the-md-tag)
-### Markdown syntax
-  * [Git Markdown](https://guides.github.com/features/mastering-markdown/)
-  * [Anchors in Git Markdown](anchors-in-markdown.md)
-### [SUGAR](sugar.md)
-### [VULGAR](vulgar.md)
-### Wiki syntax
-  * [textile](https://textile-lang.com) - Used by Redmine
-### External ressource about many different formats
- * [UCONN - University of Connecticut](https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/file-formats-tutorial/)
- 
- * [lastz README](http://www.bx.psu.edu/~rsharris/lastz/newer/README.lastz-1.02.40.html#ex_cigar)
- 
- * [UCSC - University of California, Santa Cruz](https://genome.ucsc.edu/FAQ/FAQformat.html)
+### [Slurm](slurm.md)
+
+### [Rackham](rackham.md)
+
+### [Screen](screen.md)
+
+# File format
+
+ * [BAM and SAM](https://samtools.github.io/hts-specs/SAMv1.pdf)  
+ * [CIGAR](cigar.md)  
+ * [GFF and GTF](gxf.md)  
+ * MD tag in bam format  
+   * [MD Tags in BAM Files](https://github.com/vsbuffalo/devnotes/wiki/The-MD-Tag-in-BAM-Files)   
+   * [The history the MD tag and the CIGAR X operator](http://lh3.github.io/2018/03/27/the-history-the-cigar-x-operator-and-the-md-tag)
+ * Markdown syntax
+   * [Git Markdown](https://guides.github.com/features/mastering-markdown/)
+   * [Anchors in Git Markdown](anchors-in-markdown.md)
+ * [SUGAR](sugar.md)
+ * [VULGAR](vulgar.md)
+ * Wiki syntax
+   * [textile](https://textile-lang.com) - Used by Redmine
+ * External ressource about many different formats
+   * [UCONN - University of Connecticut](https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/file-formats-tutorial/)
+   * [lastz README](http://www.bx.psu.edu/~rsharris/lastz/newer/README.lastz-1.02.40.html#ex_cigar)
+   * [UCSC - University of California, Santa Cruz](https://genome.ucsc.edu/FAQ/FAQformat.html)
 
 # Converting
 
-### [gff to gtf](gff_to_gtf.md)
-### [gff to bed](gff_to_bed.md)
+  * [gff to gtf](gff_to_gtf.md)
+  * [gff to bed](gff_to_bed.md)
 
 # Others
-
-### [Git](git.md)
 
 ### MinHash  
  * [sourmash](http://joss.theoj.org/papers/10.21105/joss.00027)
@@ -105,14 +118,6 @@ Knowledge: collection of cheat Sheets / overviews / summaries
  * #### [Plasmid](annotation_tools_plasmidome.md)
 
 ### [Overview of RNA-seq library types](rnaseq_library_types.md)
-
-### [Rackham](rackham.md)
-
-### [Screen](screen.md)
-
-### [Schedulers: LSF,Torque,SGE,Slurm,etc](pictures/scheduler_rosetta.pdf)
-
-### [Slurm](slurm.md)
 
 ### [Taxonomic classification](taxonomic_classification.md)
 
