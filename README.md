@@ -44,6 +44,7 @@ Knowledge: collection of cheat Sheets / overviews / summaries
         * [Plasmid](#plasmid)
     * [Overview of RNA-seq library types](#overview-of-rna-seq-library-types)
     * [Taxonomic classification](taxonomic-classification)
+    * [Variant Annotation](variant-annotation)
  * [Blogs](#blogs)
  * [Knowledge bank](#knowledge-bank)
  * [Data visualisation](#data-visualisation )
@@ -130,6 +131,10 @@ Knowledge: collection of cheat Sheets / overviews / summaries
 ### [Overview of RNA-seq library types](rnaseq_library_types.md)
 
 ### [Taxonomic classification](taxonomic_classification.md)
+
+### Variant Annotation
+
+3 main tools exists, Annovar, snpEff and VEP. [Choice of transcripts and software has a large effect on variant annotation](https://genomemedicine.biomedcentral.com/articles/10.1186/gm543), so choice in tool or reference annotation can be hard to do. Here a nice blog providing good insights: https://blog.goldenhelix.com/the-sate-of-variant-annotation-a-comparison-of-annovar-snpeff-and-vep/ 
 
 # Blogs
  * [Bioinformatics I/O](http://bioinformatics.cvr.ac.uk/blog/)  
