@@ -10,6 +10,7 @@ Knowledge: collection of cheat Sheets / overviews / summaries
     * [Bash](#bash)
     * [Perl](#perl)
     * [Python](#python)
+    * [R](r.md)
 * [Cluster](#cluster)
     * [Schedulers: LSF,Torque,SGE,Slurm,etc](#schedulers-lsftorquesgeslurmetc)
     * [Slurm](#slurm)
@@ -69,6 +70,9 @@ Knowledge: collection of cheat Sheets / overviews / summaries
 
 ### Python
  * [Create a package on PyPI](pypi.md)
+
+### R
+ * [R](r.md)
 
 # Cluster
  
