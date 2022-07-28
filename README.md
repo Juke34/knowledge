@@ -5,6 +5,7 @@ Knowledge: collection of cheat Sheets / overviews / summaries
 
 ## Table of Contents  
 
+* [RNAseq](/rnaseq/readme.md)
 * [Programming](#programming)
     * [Git](git.md)
     * [Bash](#bash)
