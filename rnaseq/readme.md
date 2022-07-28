@@ -22,3 +22,7 @@ RNAseq
 
    * optical duplicates  
     Optical, or more broadly Sequencing, duplicates are duplicates that appear clustered together spatially during sequencing and can arise from optical/imagine-processing artifacts or from bio-chemical processes during clonal amplification and sequencing
+
+
+Tool to perform duplicates analysis (mark, remove): [MarkDuplicates (Picard)](https://gatk.broadinstitute.org/hc/en-us/articles/360037052812-MarkDuplicates-Picard-)  
+Merge read and remove duplicates? [See here](https://www.biostars.org/p/347514/)
