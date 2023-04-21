@@ -102,6 +102,7 @@ nav:
       - Slurm : cluster/slurm.md
       - Rackham : cluster/rackham.md
       - Screen : cluster/screen.md
+    - Course : course.md      
     - Formats : 
       - Specification :
         - BAM / SAM : format/specification/bam_and_sam.md
@@ -119,6 +120,8 @@ nav:
         - GFF to :
           - GTF: format/conversion/gff_to_gtf.md
           - BED: format/conversion/gff_to_bed.md
+      - Handling :
+        - FASTA : format/handling/split_fasta.md
     - Knowledge bank :  knowledge_bank.md
     - Annotation :
       - Genome : annotation/structural/annotation_tools_genome.md

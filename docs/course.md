@@ -1,0 +1,16 @@
+## Conda
+
+* [https://mivegec.pages.ird.fr/dainat/malbec-conda/](https://mivegec.pages.ird.fr/dainat/malbec-conda/)
+* [https://nbisweden.github.io/workshop-conda/#1](https://nbisweden.github.io/workshop-conda/#1)
+
+## Git
+
+[https://mivegec.pages.ird.fr/dainat/malbec-git/](https://mivegec.pages.ird.fr/dainat/malbec-git/)
+
+## Python
+
+[https://southgreenplatform.github.io/training_python/](https://southgreenplatform.github.io/training_python/)
+
+## Reproducible Research
+ 
+[https://southgreenplatform.github.io/training_reproducible_research/](https://southgreenplatform.github.io/training_reproducible_research/)

@@ -2,8 +2,8 @@
 ## Review of the main ways to split a FASTA file
 
 
-tool | language | One sequence per file | Can select nb of output files  | Can select nb seq by file | Can select size of output files | Overlap possible (when sequence cut) | Can cut sequences | Subsample possible | Example | Comment
--- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| tool | language | One sequence per file | Can select nb of output files  | Can select nb seq by file | Can select size of output files | Overlap possible (when sequence cut) | Can cut sequences | Subsample possible | Example | Comment
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 awk | awk | yes | no | yes | no | no | no | no | [example](#awk) | 
 split | bash | yes | no | yes | yes | no | no | no | [example](#split) | Fasta must be single line fasta (one header + one single sequence line)
 bash | bash | yes | no | no | no | no | no | no | [example](#bash) |  Individual files will have the name of the corresponding sequence, without leading >
