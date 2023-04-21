@@ -1,3 +1,7 @@
+## Bash
+
+* [bash lecture](programming/bash/Bash_lecture.pdf)
+
 ## Conda
 
 * [https://mivegec.pages.ird.fr/dainat/malbec-conda/](https://mivegec.pages.ird.fr/dainat/malbec-conda/)
