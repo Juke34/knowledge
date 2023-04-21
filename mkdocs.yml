@@ -1,0 +1,147 @@
+# Project information
+site_name: 'Jacques Dainat Bioinformatics Knowledge'
+site_author: 'Jacques Dainat'
+site_url: 'https://juke34.github.io/knowledge/'
+site_description: Some bioinformatics knowledge gathered by Jacques Dainat 
+site_dir: public # When you build your site, all of the files are written to the directory assigned to the site_dir configuration option (defaults to "site")
+
+# Repository
+repo_name: 'knowledge'
+repo_url: 'https://juke34.github.io/knowledge'
+edit_uri: edit/main/docs/ # Allow to replace edit/master/docs use by default
+
+# Configuration
+theme:
+  name: material
+  #logo: pages/img/ # logo top left page
+  search_index_only: true
+  include_search_page: true
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+  # - content.tabs.link
+    - content.tooltips
+    - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    # - navigation.sections # collapse subsections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - toc.integrate # remove table of content on the right side
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.snippets:
+      base_path: docs
+  - attr_list
+  - tables
+  - toc:
+    #  toc_depth: 3
+      permalink: '#'
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
+  - external-markdown
+  - macros
+
+# css
+extra_css:
+  - stylesheets/extra.css
+
+# javascripts
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+
+# Customization
+extra:
+#  homepage:  # Page displayed when clicking the logo
+  history_buttons: false
+  # --- set whole scope variables ---
+  color_table_header: "#333a99"
+
+# page tree
+nav:
+    - Home: README.md
+    - Blogs : blogs.md
+    - Cluster : 
+      - Schedulers commands comparison : cluster/scheduler_rosetta.md
+      - Slurm : cluster/slurm.md
+      - Rackham : cluster/rackham.md
+      - Screen : cluster/screen.md
+    - Formats : 
+      - Specification :
+        - BAM / SAM : format/specification/bam_and_sam.md
+        - BED v1 : format/specification/bed.md
+        - CIGAR : format/specification/cigar.md
+        - CRAM v3.1 : format/specification/cram.md
+        - GFF / GTF all versions : format/specification/gxf.md
+        - Markdown : format/specification/markdown.md
+        - SUGAR : format/specification/sugar.md
+        - TEXTILE (Wiki) : format/specification/textile.md 
+        - VCF v4.4 : format/specification/vcf.md
+        - VULGAR : format/specification/vulgar.md
+        - Interesting ressources about formats: format/specification/interesting_ressources.md
+      - Conversion : 
+        - GFF to :
+          - GTF: format/conversion/gff_to_gtf.md
+          - BED: format/conversion/gff_to_bed.md
+    - Knowledge bank :  knowledge_bank.md
+    - Annotation :
+      - Genome : annotation/structural/annotation_tools_genome.md
+      - Mitochondrion : annotation/structural/annotation_tools_mitome.md
+      - Chloroplast : annotation/structural/annotation_tools_plastome.md
+      - Plasmid : annotation/structural/annotation_tools_plasmidome.md
+    - Programming :
+        - Bash : 
+          - Lecture : programming/bash/bash_lecture.md
+          - Cheat sheet : programming/bash/bash_cheat_sheet.md
+          - Useful commands : programming/bash/bash_other.md
+        - Bioconda : programming/bioconda/bioconda.md
+        - Git : programming/git/git.md
+        - Perl : 
+          - Perl code profiler : programming/perl/perl_code_profiler.md
+        - Python :
+          - Create a package on PyPI : programming/python/pypi.md 
+        - R : programming/r/r.md
+    - RNA-seq : rnaseq/rnaseq.md
+    - Statistics : statistics/statistics.md
+    - Classification : taxonomic_classification.md
+    - Variant annotation : variant_annotation.md
+    - Visualisation : data_visualisation.md
+
+
+
