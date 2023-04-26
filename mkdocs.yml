@@ -7,7 +7,7 @@ site_dir: public # When you build your site, all of the files are written to the
 
 # Repository
 repo_name: 'knowledge'
-repo_url: 'https://juke34.github.io/knowledge'
+repo_url: 'https://github.com/juke34/knowledge'
 edit_uri: edit/main/docs/ # Allow to replace edit/master/docs use by default
 
 # Configuration
