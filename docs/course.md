@@ -9,12 +9,13 @@
 
 ## Git
 
-[https://mivegec.pages.ird.fr/dainat/malbec-git/](https://mivegec.pages.ird.fr/dainat/malbec-git/)
+* [https://mivegec.pages.ird.fr/dainat/malbec-git/](https://mivegec.pages.ird.fr/dainat/malbec-git/)
 
 ## Python
 
-[https://southgreenplatform.github.io/training_python/](https://southgreenplatform.github.io/training_python/)
+* [https://southgreenplatform.github.io/training_python/](https://southgreenplatform.github.io/training_python/)
+* [National Bioinformatics Infrastructure Sweden (NBIS) python course](https://nbisweden.github.io/workshop-python/)
 
 ## Reproducible Research
  
-[https://southgreenplatform.github.io/training_reproducible_research/](https://southgreenplatform.github.io/training_reproducible_research/)
+* [https://southgreenplatform.github.io/training_reproducible_research/](https://southgreenplatform.github.io/training_reproducible_research/)
