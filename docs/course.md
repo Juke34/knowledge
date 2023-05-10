@@ -16,6 +16,10 @@
 * [https://southgreenplatform.github.io/training_python/](https://southgreenplatform.github.io/training_python/)
 * [National Bioinformatics Infrastructure Sweden (NBIS) python course](https://nbisweden.github.io/workshop-python/)
 
+## R
+
+* [https://www.royfrancis.com/course-r/lab.html](https://www.royfrancis.com/course-r/lab.html)
+
 ## Reproducible Research
  
 * [https://southgreenplatform.github.io/training_reproducible_research/](https://southgreenplatform.github.io/training_reproducible_research/)
