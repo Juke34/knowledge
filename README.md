@@ -101,3 +101,5 @@ conda activate education
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs -h` - Print help message and exit.
 
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
