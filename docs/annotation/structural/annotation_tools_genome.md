@@ -156,6 +156,7 @@ List of genome annotation tools
 2020 | Helixer | Helixer: cross-species gene annotation of large eukaryotic genomes using deep learning - https://doi.org/10.1093/bioinformatics/btaa1044 | deep learning | | Eukaryote | | cross-species annotation | |  
 2021 | bakta | Rapid & standardized annotation of bacterial genomes & plasmids | pipeline |  | Bacteria + plasmid | | | .embl, .gbff, .gff3, .faa, .fna |
 2021 | FINDER | FINDER: an automated software package to annotate eukaryotic genes from RNA-Seq data and associated protein sequences. https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04120-9 | Pipeline | Protein + RNAseq alignement + Abinitio (BRAKER) | Eukaryote | | | .gtf |
+2022 | Pharokka | Pharokka: a fast scalable bacteriophage annotation tool - https://doi.org/10.1093/bioinformatics/btac776  | Pipeline | prodigal is used for CDS | bacteriophage | | | gff, gbk ,etc. |
 2023 | FLAG | FLAG: Find, Label, Annotate Genomes, a fully automated tool for genome gene structural and functional annotation of highly fragmented non-model species https://www.biorxiv.org/content/10.1101/2023.07.14.548907v1.full  | Pipeline | Protein + RNAseq alignement + Abinitio | Eukaryote | | Nextflow pipeline very complete | |
 | year	| Tool name | Publication | Type	| Method | Organism | Nb citation (pubmed 2016) | Comments | Output Format |
 
