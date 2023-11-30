@@ -2,6 +2,11 @@
 
 * [bash lecture](programming/bash/Bash_lecture.pdf)
 
+
+## 
+
+* [Bioinformatics Tutorials for Bacterial Genomics](https://jhayer.github.io/bacterial_genomics_training/#usage/)
+
 ## Conda
 
 * [https://mivegec.pages.ird.fr/dainat/malbec-conda/](https://mivegec.pages.ird.fr/dainat/malbec-conda/)
