@@ -145,7 +145,7 @@ List of genome annotation tools
 2017 | funannotate | doi.org/10.5281/zenodo.2576527 | Pipeline | Evidence Modeler + Augustus + GeneMark-ES/ET + evidence + PASA | built specifically for fungi, but will also work with higher eukaryotes | | homology-based gene prediction program |
 2017 | GAWN | unpublished - https://github.com/enormandeau/gawn | pipeline evidence-based only | GMAP to create gene and cufflinks and TransDecoder to add UTR | eukaryote | | |	
 2018 | FunGAP | Min B, Grigoriev IV, Choi IG. FunGAP: Fungal Genome Annotation Pipeline using evidence-based gene model evaluation. Bioinformatics (Oxford, England). 2017;33(18):2936–7. | pipeline | | |  | |
-2018 | BRAKER2 | | | Hybrid | eukaryote |  | |	
+2018 | BRAKER2 | BRAKER2: automatic eukaryotic genome annotation with GeneMark-EP+ and AUGUSTUS supported by a protein database - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7787252/ | | Hybrid | eukaryote |  | |	
 2018 | G-OnRamp | | Ab-initio Web-based | Augustus,GlimmerHMM,SNAP | |  | |
 2018 | VIRULIGN | VIRULIGN: fast codon-correct alignment and annotation of viral genomes. Pieter J K Libin,  Koen Deforche,  Ana B Abecasis,  Kristof Theys. Bioinformatics, Volume 35, Issue 10, 15 May 2019, Pages 1763–1765, https://doi.org/10.1093/bioinformatics/bty851 | Similarity | | Virus | | | 
 2019 | GAAP | Jinhwa Kong, Sun Huh, Jung-Im Won, Jeehee Yoon, Baeksop Kim, and Kiyong Kim. GAAP: A Genome Assembly + Annotation Pipeline. BioMed Research International, Volume 2019, Article ID 4767354, 12 pages | pipeline| Augustus,EVM,MAKER,PASA | |  | Genome Assembly + Annotation Pipeline |
@@ -158,7 +158,8 @@ List of genome annotation tools
 2021 | FINDER | FINDER: an automated software package to annotate eukaryotic genes from RNA-Seq data and associated protein sequences. https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04120-9 | Pipeline | Protein + RNAseq alignement + Abinitio (BRAKER) | Eukaryote | | | .gtf |
 2022 | Pharokka | Pharokka: a fast scalable bacteriophage annotation tool - https://doi.org/10.1093/bioinformatics/btac776  | Pipeline | prodigal is used for CDS | bacteriophage | | | gff, gbk ,etc. |
 2023 | FLAG | FLAG: Find, Label, Annotate Genomes, a fully automated tool for genome gene structural and functional annotation of highly fragmented non-model species https://www.biorxiv.org/content/10.1101/2023.07.14.548907v1.full  | Pipeline | Protein + RNAseq alignement + Abinitio | Eukaryote | | Nextflow pipeline very complete | |
-2023 | Galba | Galba: genome annotation with miniprot and AUGUSTUS - https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05449-z | pipeline | Ab-intio evidence driven | eukaryote | | use Augustus + miniprot | |
+2023 | BRAKER3 | BRAKER3: Fully automated genome annotation using RNA-Seq and protein evidence with GeneMark-ETP, AUGUSTUS and TSEBRA - https://pubmed.ncbi.nlm.nih.gov/37398387/  | | Hybrid | eukaryote |  | |	
+2023 | Galba | Galba: genome annotation with miniprot and AUGUSTUS - https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05449-z | pipeline | Hybrid = Ab-intio evidence driven | eukaryote | | use Augustus + miniprot | |
 | year	| Tool name | Publication | Type	| Method | Organism | Nb citation (pubmed 2016) | Comments | Output Format |
 
 _____________________
