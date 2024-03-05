@@ -74,8 +74,9 @@ plugins:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
       minify_html: true
-  - external-markdown
+  #- external-markdown
   - macros
+  - include-markdown
 
 # css
 extra_css:
