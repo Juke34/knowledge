@@ -1,4 +1,13 @@
-# This is how you create the PyPI package and upload to the PyPI repo
+# Python
+
+## Learn python 
+
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+
+## How to create a package on PyPI 
+
+This is how you create the PyPI package and upload to the PyPI repo
 
 * Prerequisite: 
 
@@ -28,6 +37,6 @@ python setup.py bdist_wheel --universal
 python -m twine upload dist/* 
 ```
 
-## Tips
+### Tips
 
 Everytime you want to upload a new version you have to increment the version number within the setup.py file.
