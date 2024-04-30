@@ -5,3 +5,8 @@
 * [Coordinate systems](https://github.com/Juke34/coordinate_systems) A cheat sheet about coordinate systems in bioinformatics
 * [ecSeq Bioinformatics](https://www.ecseq.com/support/)
 * [Library types](https://joss.theoj.org/papers/10.21105/joss.01344) Overview of the different library types in RNAseq
+
+## Git
+
+* [Cheat sheet visualiation](https://ndpsoftware.com/git-cheatsheet.html#loc=workspace) - Cliquer sur les zones permet de voir les commandes qui sont en relation avec, passer la souris sur une commande permet de voir une description. Multilingue
+* [Cheat sheet](https://training.github.com/) - github
