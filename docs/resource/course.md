@@ -3,7 +3,7 @@
 * [bash lecture](programming/bash/Bash_lecture.pdf)
 
 
-## 
+## Bacterial Genomics and AMR
 
 * [Bioinformatics Tutorials for Bacterial Genomics](https://jhayer.github.io/bacterial_genomics_training/#usage/)
 

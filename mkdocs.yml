@@ -97,38 +97,40 @@ extra:
 # page tree
 nav:
     - Home: README.md
-    - Blogs : blogs.md
+    - Bioinformatics:
+      - Formats : 
+        - Specification :
+          - BAM / SAM : bioinformatics/format/specification/bam_and_sam.md
+          - BED v1 : bioinformatics/format/specification/bed.md
+          - CIGAR : bioinformatics/format/specification/cigar.md
+          - CRAM v3.1 : bioinformatics/format/specification/cram.md
+          - GFF / GTF all versions : bioinformatics/format/specification/gxf.md
+          - Markdown : bioinformatics/format/specification/markdown.md
+          - SUGAR : bioinformatics/format/specification/sugar.md
+          - TEXTILE (Wiki) : bioinformatics/format/specification/textile.md 
+          - VCF v4.4 : bioinformatics/format/specification/vcf.md
+          - VULGAR : bioinformatics/format/specification/vulgar.md
+          - Interesting ressources about formats: bioinformatics/format/specification/interesting_ressources.md
+        - Conversion : 
+          - GFF to :
+            - GTF: bioinformatics/format/conversion/gff_to_gtf.md
+            - BED: bioinformatics/format/conversion/gff_to_bed.md
+        - Handling :
+          - FASTA : bioinformatics/format/handling/split_fasta.md
+      - Annotation :
+        - Genome : bioinformatics/annotation/structural/annotation_tools_genome.md
+        - Mitochondrion : bioinformatics/annotation/structural/annotation_tools_mitome.md
+        - Chloroplast : bioinformatics/annotation/structural/annotation_tools_plastome.md
+        - Plasmid : bioinformatics/annotation/structural/annotation_tools_plasmidome.md
+      - RNA-seq : bioinformatics/rnaseq/rnaseq.md
+      - Classification : bioinformatics/taxonomic_classification.md
+      - Variant annotation : bioinformatics/variant_annotation.md
+      - Visualisation : bioinformatics/data_visualisation.md
     - Cluster : 
       - Schedulers commands comparison : cluster/scheduler_rosetta.md
       - Slurm : cluster/slurm.md
       - Rackham : cluster/rackham.md
       - Screen : cluster/screen.md
-    - Course : course.md      
-    - Formats : 
-      - Specification :
-        - BAM / SAM : format/specification/bam_and_sam.md
-        - BED v1 : format/specification/bed.md
-        - CIGAR : format/specification/cigar.md
-        - CRAM v3.1 : format/specification/cram.md
-        - GFF / GTF all versions : format/specification/gxf.md
-        - Markdown : format/specification/markdown.md
-        - SUGAR : format/specification/sugar.md
-        - TEXTILE (Wiki) : format/specification/textile.md 
-        - VCF v4.4 : format/specification/vcf.md
-        - VULGAR : format/specification/vulgar.md
-        - Interesting ressources about formats: format/specification/interesting_ressources.md
-      - Conversion : 
-        - GFF to :
-          - GTF: format/conversion/gff_to_gtf.md
-          - BED: format/conversion/gff_to_bed.md
-      - Handling :
-        - FASTA : format/handling/split_fasta.md
-    - Knowledge bank :  knowledge_bank.md
-    - Annotation :
-      - Genome : annotation/structural/annotation_tools_genome.md
-      - Mitochondrion : annotation/structural/annotation_tools_mitome.md
-      - Chloroplast : annotation/structural/annotation_tools_plastome.md
-      - Plasmid : annotation/structural/annotation_tools_plasmidome.md
     - Programming :
         - Bash : 
           - Lecture : programming/bash/bash_lecture.md
@@ -140,11 +142,9 @@ nav:
           - Perl code profiler : programming/perl/perl_code_profiler.md
         - Python : programming/python/python.md 
         - R : programming/r/r.md
-    - RNA-seq : rnaseq/rnaseq.md
+        - Nextflow : programming/nextflow/nextflow.md
+    - Resource:
+      - Course : resource/course.md
+      - Sites :  resource/sites.md
+      - Blogs : resource/blogs.md
     - Statistics : statistics/statistics.md
-    - Classification : taxonomic_classification.md
-    - Variant annotation : variant_annotation.md
-    - Visualisation : data_visualisation.md
-
-
-
