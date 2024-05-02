@@ -122,7 +122,6 @@ nav:
         - Mitochondrion : bioinformatics/annotation/structural/annotation_tools_mitome.md
         - Chloroplast : bioinformatics/annotation/structural/annotation_tools_plastome.md
         - Plasmid : bioinformatics/annotation/structural/annotation_tools_plasmidome.md
-      - RNA-seq : bioinformatics/rnaseq/rnaseq.md
       - Classification : bioinformatics/taxonomic_classification.md
       - Variant annotation : bioinformatics/variant_annotation.md
       - Visualisation : bioinformatics/data_visualisation.md
@@ -147,4 +146,5 @@ nav:
       - Course : resource/course.md
       - Sites :  resource/sites.md
       - Blogs : resource/blogs.md
+    - Sequencing : sequencing/sequencing.md
     - Statistics : statistics/statistics.md

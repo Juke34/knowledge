@@ -1,12 +1,20 @@
+# Sequencing
+
+## RNA
+
+<iframe id="iframepdf" src="../for-all-you-seek-rna.pdf" frameborder="0" width="640" height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
+
 ## Library types
 
- Here a figure describing the different RNA-seq library types:
+### Resume
 
- <img align="center" src="../library_types.jpg"  />
+ Here a figure describing the different RNA-seq library types:
+ 
+ ![GitHub Logo](library_types.jpg)
 
 If you don't know the library type of your data you can use [GUESSmyLT](https://github.com/NBISweden/GUESSmyLT)
 
-## Library prep methods:
+### Library prep methods
 
 | kit | Description | Paired | Stranded | Strand according to mRNA | Strand according to `first strand`|
 | --- | --- | --- | --- | --- | ---
@@ -28,9 +36,14 @@ If you don't know the library type of your data you can use [GUESSmyLT](https://
 
 --rf orientation are produced using the Illumina mate-pair protocol?
 
+## DNA
+
+<iframe id="iframepdf" src="../for-all-you-seek-dna.pdf" frameborder="0" width="640" height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
+
+
 ## Duplicates
 
- Duplicate reads are defined as originating from a single fragment of DNA. Duplicates can arise during sample preparation e.g. library construction using PCR (PCR duplication artifacts); single amplification cluster, incorrectly detected as multiple clusters by the optical sensor of the sequencing instrument (optical duplicates).
+ Duplicate reads are defined as originating from a single fragment of RNA/DNA. Duplicates can arise during sample preparation e.g. library construction using PCR (PCR duplication artifacts); single amplification cluster, incorrectly detected as multiple clusters by the optical sensor of the sequencing instrument (optical duplicates).
  [Intereting reading](https://training.galaxyproject.org/archive/2022-02-01/topics/introduction/tutorials/galaxy-intro-ngs-data-managment/tutorial.html)
 
    * PCR duplicate artifacts
@@ -44,3 +57,4 @@ If you don't know the library type of your data you can use [GUESSmyLT](https://
 
 Tool to perform duplicates analysis (mark, remove): [MarkDuplicates (Picard)](https://gatk.broadinstitute.org/hc/en-us/articles/360037052812-MarkDuplicates-Picard-)  
 Merge read and remove duplicates? [See here](https://www.biostars.org/p/347514/)
+
