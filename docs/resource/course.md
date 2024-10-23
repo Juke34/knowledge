@@ -12,6 +12,10 @@
 * [https://mivegec.pages.ird.fr/dainat/malbec-conda/](https://mivegec.pages.ird.fr/dainat/malbec-conda/)
 * [https://nbisweden.github.io/workshop-conda/#1](https://nbisweden.github.io/workshop-conda/#1)
 
+## Container
+
+* [https://mivegec.pages.ird.fr/dainat/malbec-containers/](https://mivegec.pages.ird.fr/dainat/malbec-containers/) - Unix essential
+
 ## Git
 
 * [https://mivegec.pages.ird.fr/dainat/malbec-git/](https://mivegec.pages.ird.fr/dainat/malbec-git/) - git essential
@@ -26,6 +30,7 @@
 
 * [https://southgreenplatform.github.io/training_python/](https://southgreenplatform.github.io/training_python/)
 * [National Bioinformatics Infrastructure Sweden (NBIS) python course](https://nbisweden.github.io/workshop-python/)
+* [Introduction à la programmation Python pour la biologie](https://python.sdv.u-paris.fr) - in French
 
 ## R
 
@@ -35,6 +40,12 @@
  
 * [https://southgreenplatform.github.io/training_reproducible_research/](https://southgreenplatform.github.io/training_reproducible_research/)
 
+## Unix
+
+* [https://mivegec.pages.ird.fr/dainat/malbec-unix-basics/](https://mivegec.pages.ird.fr/dainat/malbec-unix-basics/) - Unix essential
+
 ## Miscellaneous
 
+* [Galaxy Training!](https://training.galaxyproject.org/) - Collection of tutorials developed and maintained by the worldwide Galaxy community
 * [Glittr](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc) a web app that list bioinformatics training materials available on GitHub and GitLab
+* [ERGA Knowledge Hub](https://www.erga-biodiversity.eu/post/the-erga-knowledge-hub) - A portal gathering and sharing educational materials on genomics and related topics
