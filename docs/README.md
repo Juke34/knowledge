@@ -23,4 +23,4 @@ In 2020 I moved back to France in Montpellier to join Alcediag in the CNRS-ALCED
 
 In 2023 I decided to join the French National Research Institute for Sustainable Development (IRD) still in Montpellier, to be a driving force in the [MIVEGEC](https://mivegec.fr/en) unit's bioinformatics transition. There I'm part of the bioinformatics platform [iTrop](https://bioinfo.ird.fr/index.php/en/front-page-2/) and also implied in the [Southgreen](https://www.southgreen.fr) platform.
 
-A along this time I've been involved in a number of interesting projects and communities [bioconda](http://bioconda.github.io), [BeeBiome consortium](BeeBiome-consortium), [biostarts](https://www.biostars.org), etc.  
+A along this time I've been involved in a number of interesting projects and communities [bioconda](http://bioconda.github.io), [BeeBiome consortium](BeeBiome-consortium), [biostars](https://www.biostars.org), etc.  
