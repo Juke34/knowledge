@@ -204,4 +204,5 @@ Let’s say you are working in an project where you are making changes in a bran
 
 ### Extra
 
-[Git branch design lesson](https://coderefinery.github.io/git-branch-design/)
+[Git branch design lesson](https://coderefinery.github.io/git-branch-design/)  
+[How Can I Remove .ds_store Files from a Git Repository?](https://betterstack.com/community/questions/how-to-remove-ds-store-files-from-git-repo/)
