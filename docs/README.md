@@ -7,7 +7,7 @@ Jacques Dainat
 <img src="magueule_ronde.png" alt="myself" width="75" height="75">  
 
 * <img src="https://www.svgrepo.com/show/305241/github.svg" width="20" height="20"/> [Juke34](https://github.com/Juke34)
-* <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" width="20" height="20"/> [@JacquesDainat](https://twitter.com/JacquesDainat)
+* <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width="20" height="20"/> [@jacquesdainat.bsky.social]([https://twitter.com/JacquesDainat](https://bsky.app/profile/jacquesdainat.bsky.social))
 * <img src="https://www.svgrepo.com/show/314548/researchgate.svg" width="25" height="25"/> [ResearchGate](https://www.researchgate.net/profile/Jacques-Dainat-2)
 * <img src="https://www.svgrepo.com/show/342095/orcid.svg" width="20" height="20"/> [https://orcid.org/0000-0002-6629-0173](https://orcid.org/0000-0002-6629-0173)
 * <img src="https://www.svgrepo.com/show/333570/mastodon.svg" width="25" height="25"/> [@jacquesdainat@genomic.social](https://genomic.social/@jacquesdainat)
@@ -23,4 +23,4 @@ In 2020 I moved back to France in Montpellier to join Alcediag in the CNRS-ALCED
 
 In 2023 I decided to join the French National Research Institute for Sustainable Development (IRD) still in Montpellier, to be a driving force in the [MIVEGEC](https://mivegec.fr/en) unit's bioinformatics transition. There I'm part of the bioinformatics platform [iTrop](https://bioinfo.ird.fr/index.php/en/front-page-2/) and also implied in the [Southgreen](https://www.southgreen.fr) platform.
 
-A along this time I've been involved in a number of interesting projects and communities [bioconda](http://bioconda.github.io), [BeeBiome consortium](BeeBiome-consortium), [biostars](https://www.biostars.org), etc.  
+A along this time I've been involved in a number of interesting projects and communities [bioconda](http://bioconda.github.io), [BeeBiome consortium](BeeBiome-consortium), [biostars](https://www.biostars.org), [nf-core](https://github.com/nf-core), [Nextflow Ambassadors](https://www.nextflow.io/our_ambassadors.html), etc.  
